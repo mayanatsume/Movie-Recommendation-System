@@ -1,0 +1,233 @@
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.exe
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.deps.json
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.runtimeconfig.json
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.pdb
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Core.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Data.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.PCA.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.DataView.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Recommender.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.Numerics.Tensors.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libMatrixFactorizationNative.so.dbg
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libMatrixFactorizationNative.so.dbg
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libMatrixFactorizationNative.so.dbg
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib.dwarf
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib.dwarf
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\MatrixFactorizationNative.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg480_64.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg480.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.csproj.AssemblyReference.cache
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\FaceSwapWindow.baml
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\ChatBotWindow.baml
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\LoginWindow.baml
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MLNetRecommendationWindow.baml
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\FaceSwapWindow.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\ChatBotWindow.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\LoginWindow.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MLNetRecommendationWindow.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd_Content.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd_MarkupCompile.cache
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd_MarkupCompile.lref
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.g.resources
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.AssemblyInfoInputs.cache
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.AssemblyInfo.cs
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.csproj.CoreCompileInputs.cache
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.sourcelink.json
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.csproj.Up2Date
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\refint\TesteImbd.dll
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.pdb
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.genruntimeconfig.cache
+C:\Users\simone silva\Desktop\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\ref\TesteImbd.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.exe
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.deps.json
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.runtimeconfig.json
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\TesteImbd.pdb
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Core.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Data.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.PCA.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.DataView.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.ML.Recommender.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.Numerics.Tensors.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libMatrixFactorizationNative.so.dbg
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libMatrixFactorizationNative.so.dbg
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libMatrixFactorizationNative.so.dbg
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib.dwarf
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib.dwarf
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\MatrixFactorizationNative.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg480_64.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg480.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.csproj.AssemblyReference.cache
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\FaceSwapWindow.baml
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\ChatBotWindow.baml
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\LoginWindow.baml
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MLNetRecommendationWindow.baml
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\FaceSwapWindow.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\ChatBotWindow.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\LoginWindow.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MLNetRecommendationWindow.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd_Content.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd_MarkupCompile.cache
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd_MarkupCompile.lref
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.g.resources
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.AssemblyInfoInputs.cache
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.AssemblyInfo.cs
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.csproj.CoreCompileInputs.cache
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.csproj.Up2Date
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\refint\TesteImbd.dll
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.pdb
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\TesteImbd.genruntimeconfig.cache
+C:\Users\jr-office\OneDrive\Documentos\UAB\2ANO_2SEMESTRE\21179 - Laboratório de Desenvolvimento de Software\Aplicação Demonstradora- Grupo 27 - Final\Aplicação Demonstradora- Grupo 27 - Final\obj\Debug\net8.0-windows\ref\TesteImbd.dll

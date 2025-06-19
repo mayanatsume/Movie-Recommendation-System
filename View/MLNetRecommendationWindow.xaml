@@ -1,0 +1,15 @@
+<Window x:Class="MovieBookRecommendation.MLNetRecommendationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Recomendações ML.NET" Height="300" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <!-- Imagem da câmera (certifique-se de ter a imagem em Resources/camera.png) -->
+            <Image Source="Resources/camera.png" Height="50" Margin="0,0,0,10"/>
+            <!-- Texto em negrito -->
+            <TextBlock Text="ML.NET Avisa" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+            <!-- Área para listar os filmes -->
+            <TextBlock x:Name="RecommendationsTextBlock" TextWrapping="Wrap" FontSize="14"/>
+        </StackPanel>
+    </Grid>
+</Window>
